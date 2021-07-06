@@ -18,7 +18,6 @@ LL binaryPow(LL a, LL b, LL m)
 }
 int main(int argc, char* argv[])
 {
-      cout << "Hello world!" << endl;
       int a,b,m;
       cin >> a >> b >> m;
       cout << binaryPow(a,b,m) << endl;
