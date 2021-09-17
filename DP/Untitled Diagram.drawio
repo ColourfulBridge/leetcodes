@@ -1,1 +1,95 @@
-<mxfile host="app.diagrams.net" modified="2021-08-11T09:02:46.323Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" version="14.9.6" etag="e2iYddnQBz6JVlWbTQAY" type="github"><diagram id="OIMHh-zSiFGHotOatuCN">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-17T02:10:31.127Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="3wCw7-SQiAxdBG0klvpy" version="15.1.0" type="github">
+  <diagram id="OIMHh-zSiFGHotOatuCN" name="Page-1">
+    <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iD-NcIWoR3rLBs3gkzMk-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="150" width="400" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="iD-NcIWoR3rLBs3gkzMk-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="185" width="400" height="515" as="geometry" />
+        </mxCell>
+        <mxCell id="iD-NcIWoR3rLBs3gkzMk-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="150" width="220" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="iD-NcIWoR3rLBs3gkzMk-6" value="vue自定义组件的属性和事件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="40" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iD-NcIWoR3rLBs3gkzMk-7" value="组件内部代码" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="160" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iD-NcIWoR3rLBs3gkzMk-9" value="使用组件的代码" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="155" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iD-NcIWoR3rLBs3gkzMk-10" value="&lt;div style=&quot;color: rgb(171 , 178 , 191) ; background-color: rgb(38 , 42 , 49) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 19px&quot;&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: #e06c75&quot;&gt;props&lt;/span&gt;&lt;span style=&quot;color: #e06c75&quot;&gt;:&lt;/span&gt;&amp;nbsp;{&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: #61afef&quot;&gt;isShow&lt;/span&gt;&lt;span style=&quot;color: #e06c75&quot;&gt;:&lt;/span&gt;&amp;nbsp;&lt;span style=&quot;color: #61afef&quot;&gt;Boolean&lt;/span&gt;&lt;span style=&quot;color: #9da3af&quot;&gt;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: #61afef&quot;&gt;dialogRow&lt;/span&gt;&lt;span style=&quot;color: #e06c75&quot;&gt;:&lt;/span&gt;&amp;nbsp;&lt;span style=&quot;color: #61afef&quot;&gt;Object&lt;/span&gt;&lt;span style=&quot;color: #9da3af&quot;&gt;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: #61afef&quot;&gt;UserId&lt;/span&gt;&lt;span style=&quot;color: #e06c75&quot;&gt;:&lt;/span&gt;&amp;nbsp;&lt;span style=&quot;color: #61afef&quot;&gt;String&lt;/span&gt;&lt;span style=&quot;color: #9da3af&quot;&gt;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: #61afef&quot;&gt;operionType&lt;/span&gt;&lt;span style=&quot;color: #e06c75&quot;&gt;:&lt;/span&gt;&amp;nbsp;&lt;span style=&quot;color: #61afef&quot;&gt;String&lt;/span&gt;&lt;span style=&quot;color: #9da3af&quot;&gt;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;}&lt;span style=&quot;color: #9da3af&quot;&gt;,&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="240" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="iD-NcIWoR3rLBs3gkzMk-11" value="定义属性" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="210" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iD-NcIWoR3rLBs3gkzMk-12" value="在方法中触发事件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="400" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iD-NcIWoR3rLBs3gkzMk-14" value="&lt;div style=&quot;color: rgb(171 , 178 , 191) ; background-color: rgb(38 , 42 , 49) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 19px&quot;&gt;&amp;nbsp;&lt;span style=&quot;color: #e06c75 ; font-style: italic&quot;&gt;this&lt;/span&gt;&lt;span style=&quot;color: #e5c07b&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #61afef&quot;&gt;$emit&lt;/span&gt;(&quot;&lt;span style=&quot;color: #98c27a&quot;&gt;getUserList&lt;/span&gt;&quot;)&lt;span style=&quot;color: #9da3af&quot;&gt;;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="440" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iD-NcIWoR3rLBs3gkzMk-15" value="某个函数中" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="440" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iD-NcIWoR3rLBs3gkzMk-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="iD-NcIWoR3rLBs3gkzMk-16" target="iD-NcIWoR3rLBs3gkzMk-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iD-NcIWoR3rLBs3gkzMk-16" value="&lt;div style=&quot;color: rgb(171 , 178 , 191) ; background-color: rgb(38 , 42 , 49) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 19px&quot;&gt;&lt;div&gt;&amp;nbsp;&lt;span style=&quot;color: #e06c75&quot;&gt;:&lt;/span&gt;&lt;span style=&quot;color: #d19a66 ; font-style: italic&quot;&gt;isShow&lt;/span&gt;&lt;span style=&quot;color: #e06c75&quot;&gt;=&lt;/span&gt;&quot;addUserDialog&lt;span style=&quot;color: #e5c07b&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #e06c75&quot;&gt;show&lt;/span&gt;&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: #e06c75&quot;&gt;:&lt;/span&gt;&lt;span style=&quot;color: #d19a66 ; font-style: italic&quot;&gt;dialogRow&lt;/span&gt;&lt;span style=&quot;color: #e06c75&quot;&gt;=&lt;/span&gt;&quot;addUserDialog&lt;span style=&quot;color: #e5c07b&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #e06c75&quot;&gt;dialogRow&lt;/span&gt;&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: #e06c75&quot;&gt;:&lt;/span&gt;&lt;span style=&quot;color: #d19a66 ; font-style: italic&quot;&gt;operionType&lt;/span&gt;&lt;span style=&quot;color: #e06c75&quot;&gt;=&lt;/span&gt;&quot;addUserDialog&lt;span style=&quot;color: #e5c07b&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #e06c75&quot;&gt;operionType&lt;/span&gt;&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: #e06c75&quot;&gt;:&lt;/span&gt;&lt;span style=&quot;color: #d19a66 ; font-style: italic&quot;&gt;UserId&lt;/span&gt;&lt;span style=&quot;color: #e06c75&quot;&gt;=&lt;/span&gt;&quot;addUserDialog&lt;span style=&quot;color: #e5c07b&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #e06c75&quot;&gt;UserId&lt;/span&gt;&quot;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="270" width="400" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="iD-NcIWoR3rLBs3gkzMk-17" value="使用父组件的数据来赋值属性" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="280" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iD-NcIWoR3rLBs3gkzMk-21" value="&amp;lt;组件&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="200" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iD-NcIWoR3rLBs3gkzMk-22" value="&amp;lt;/组件&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="660" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iD-NcIWoR3rLBs3gkzMk-23" value="&lt;div style=&quot;color: rgb(171 , 178 , 191) ; background-color: rgb(38 , 42 , 49) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 19px&quot;&gt;&lt;div&gt;&amp;nbsp;&lt;span style=&quot;color: #e06c75&quot;&gt;@&lt;/span&gt;&lt;span style=&quot;color: #d19a66 ; font-style: italic&quot;&gt;getUserList&lt;/span&gt;&lt;span style=&quot;color: #e06c75&quot;&gt;=&lt;/span&gt;&quot;getAllUserList&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: #e06c75&quot;&gt;@&lt;/span&gt;&lt;span style=&quot;color: #d19a66 ; font-style: italic&quot;&gt;closeDialog&lt;/span&gt;&lt;span style=&quot;color: #e06c75&quot;&gt;=&lt;/span&gt;&quot;hideAddUserDialog&quot;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="500" width="400" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="iD-NcIWoR3rLBs3gkzMk-24" value="父组件中定义事件和事件处理方法，绑定给组件定义的事件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="500" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iD-NcIWoR3rLBs3gkzMk-25" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.021;entryY=0.587;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iD-NcIWoR3rLBs3gkzMk-23" target="iD-NcIWoR3rLBs3gkzMk-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="500" as="sourcePoint" />
+            <mxPoint x="590" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iD-NcIWoR3rLBs3gkzMk-26" value="将完成绑定的事件在相应的位置触发" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="309" y="520" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iD-NcIWoR3rLBs3gkzMk-27" value="提供触发器" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="430" width="100" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="iD-NcIWoR3rLBs3gkzMk-28" value="提供事件和方法" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.06;" vertex="1" parent="1">
+          <mxGeometry x="900" y="495" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iD-NcIWoR3rLBs3gkzMk-29" value="提供属性定义" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iD-NcIWoR3rLBs3gkzMk-30" value="提供属性的值" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iD-NcIWoR3rLBs3gkzMk-32" value="相当于类的模板" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="70" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iD-NcIWoR3rLBs3gkzMk-33" value="相当于填充类的实例" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="60" width="170" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
